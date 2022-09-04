@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | 不死域名</title>
+    <link>https://phoenixdomain.net/zh/categories/</link>
+      <atom:link href="https://phoenixdomain.net/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>© 2022 NISL Lab, Tsinghua University. All Rights Reserved.</copyright>
+    <image>
+      <url>https://phoenixdomain.net/media/icon_hud5e632b8930fa6a8badb6a28c2af0b1a_293660_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://phoenixdomain.net/zh/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
