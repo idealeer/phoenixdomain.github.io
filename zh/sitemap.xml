@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://phoenixdomain.net/zh/admin/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +16,7 @@
                 />
   </url><url>
     <loc>https://phoenixdomain.net/zh/categories/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +29,7 @@
                 />
   </url><url>
     <loc>https://phoenixdomain.net/zh/publication_types/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +42,7 @@
                 />
   </url><url>
     <loc>https://phoenixdomain.net/zh/tags/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +55,7 @@
                 />
   </url><url>
     <loc>https://phoenixdomain.net/zh/</loc>
+    <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
